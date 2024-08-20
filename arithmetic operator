@@ -1,0 +1,51 @@
+
+#(+)  Addition
+#(-)  Subtraction
+#(/)  Division
+#(*)  Multiplication
+#(//) Floor Division
+#(**) Expontentiation
+#(%)  Moduls
+
+
+A="FIZA"
+B="FAISAL"
+print(A+B)
+print("add two strings")
+
+
+A=300
+B=200
+print(A-B)
+print("Subtract two numbers")
+
+A=5
+B=10
+print(A/B)
+print("divide two numbers")
+
+A=100
+B=400
+print(A*B)
+print("multiplies two numbers")
+
+
+A=90
+B=35
+print(A//B)
+print("floor divide two numberss")
+
+A=234
+B=321
+print(A**B)
+print("expontention two numbers")
+
+A=987
+B=345
+print(A%B)
+print("module two numbers")
+
+
+
+
+
