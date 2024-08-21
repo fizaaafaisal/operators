@@ -1,0 +1,16 @@
+#logical
+#AND
+#OR
+#NOT
+
+r=5
+u=8
+print(r==u and u!=r)
+print(r<u or r==u)
+print(not r>u)
+
+
+
+
+      
+
