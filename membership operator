@@ -1,0 +1,11 @@
+#membership
+#in
+#not in
+a="fiza"
+b="fizafaisal"
+print(a in b)
+print(a not in b)
+
+      
+
+
