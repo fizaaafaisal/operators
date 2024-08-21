@@ -1,0 +1,9 @@
+#identity (id)
+#is
+#is not
+a="fiza"
+b="fizafaisal"
+print(a is b)
+print(a is not b)
+
+      
